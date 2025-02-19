@@ -5,8 +5,8 @@
     
     {
        "grant_type": "password",
-       "client_id": "3MVG929eOx29turF74BPdObgrzBx7wX1aqNeaOMpmfP3cOj92KFxlcTjRAzp_3ismfJMAEQO9QBvp1z44tFe9",
-       "client_secret": "1CCA44EF203B5B561979B948ED0FA65D26320126614E07353D2D2F81ADB7A7FA",
+       "client_id": "Consumer key",
+       "client_secret": "Demo secret key",
        "un":"",
        "pw":""
     }
