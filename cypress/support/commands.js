@@ -49,7 +49,7 @@ Cypress.Commands.add("navigateAndLoginSalesforce", (username, password) => {
     });
   });
 
-  cy.visit("https://wise-fox-38h7p7-dev-ed.trailblaze.lightning.force.com//lightning/page/home");
+  cy.visit("Paste your Org url here...............");
 });
 
 
