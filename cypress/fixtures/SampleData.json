@@ -1,0 +1,13 @@
+{
+    "caseDetails": {
+      "priority": "High",
+      "origin": "Email",
+      "subject": "Modification of features 2112",
+      "description": "Modify upto Max level",
+      "internalComments": "Top quality parts should be used",
+      "countries": ["India", "Mauritius", "Fiji"],
+      "contactName": "XC90",
+      "webEmail": "abc@gmail.com.bread"
+    }
+  }
+  
